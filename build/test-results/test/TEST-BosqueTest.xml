@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BosqueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-24T17:54:55" hostname="DESKTOP-CPG38V8" time="0.039">
+  <properties/>
+  <testcase name="test1()" classname="BosqueTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

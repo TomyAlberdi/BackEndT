@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArbolFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-28T17:42:50" hostname="DESKTOP-CPG38V8" time="0.112">
+  <properties/>
+  <testcase name="test1()" classname="ArbolFactoryTest" time="0.112"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

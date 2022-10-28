@@ -26,6 +26,8 @@ public class Ej1 {
         while(rd.next()) {
             System.out.println(rd.getString(2) + " " + rd.getString(3));
         }
+
+        con.close();
     }
 
 }
